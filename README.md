@@ -4,16 +4,13 @@
   <p>👀 I’m interested in Web and Application Development</p>
   <p>🌱 I’m currently learning Java and Python</p>
   <p>⚡ I’m an undergraduate at BCU University in the UK</p>
+
   <h2>🌐 Socials</h2>
   <a href="https://web.facebook.com/profile.php?id=100078813576343"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"></a>
   <a href="https://www.instagram.com/sahan_kaushalya_weerathunga/?fbclid=IwY2xjawDwC75leHRuA2FlbQIxMAABHVuFBJMhQuQV88seiLjQ5iDji_SDZL71bt1hO_u5TZr0kzTvwjsccsyHug_aem_vQkIZSVLiew7hFhoEgRuWQ"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a>
   <a href="https://www.youtube.com/@isharasahan8174"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"></a>
-  <br>
-  <a href="https://web.facebook.com/profile.php?id=100078813576343"><img src="https://img.shields.io/badge/Facebook%20Friends-1K+-blue"></a>
-  <a href="https://www.youtube.com/@isharasahan8174"><img src="https://img.shields.io/badge/YouTube%20Subscribers-500+-red"></a>
-  <a href="https://www.youtube.com/@isharasahan8174"><img src="https://img.shields.io/badge/YouTube%20Views-10K+-red"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Profile%20Views-2K+-green"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Languages%20Used-3+-orange"></a>
+ 
+
   <h2>💻 Tech Stack</h2>
   <p>
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
@@ -45,23 +42,55 @@
     <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
     <img src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black">
   </p>
+
   <h2>📊 GitHub Stats</h2>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=Sahan-Kaushalya&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false"><br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sahan-Kaushalya&theme=tokyonight&hide_border=false"><br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahan-Kaushalya&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Sahan-Kaushalya&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Sahan-Kaushalya&theme=default&hide_border=false&include_all_commits=false&count_private=false">
+      <img src="https://github-readme-stats.vercel.app/api?username=Sahan-Kaushalya&theme=default&hide_border=false&include_all_commits=false&count_private=false">
+    </picture>
+    <br/>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Sahan-Kaushalya&theme=tokyonight&hide_border=false">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Sahan-Kaushalya&theme=default&hide_border=false">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sahan-Kaushalya&theme=default&hide_border=false">
+    </picture>
+    <br/>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahan-Kaushalya&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahan-Kaushalya&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahan-Kaushalya&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+    </picture>
   </p>
+
   <h2>🏆 GitHub Trophies</h2>
   <p>
-    <img src="https://github-profile-trophy.vercel.app/?username=Sahan-Kaushalya&theme=dark&no-frame=false&no-bg=true&margin-w=4">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Sahan-Kaushalya&theme=dark&no-frame=false&no-bg=true&margin-w=4">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Sahan-Kaushalya&theme=default&no-frame=false&no-bg=true&margin-w=4">
+      <img src="https://github-profile-trophy.vercel.app/?username=Sahan-Kaushalya&theme=default&no-frame=false&no-bg=true&margin-w=4">
+    </picture>
   </p>
+
   <h2>✍️ Random Dev Quote</h2>
   <p>
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
+      <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default">
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default">
+    </picture>
   </p>
+
   <h2>🔝 Top Contributed Repo</h2>
   <p>
-    <img src="https://github-contributor-stats.vercel.app/api?username=Sahan-Kaushalya&limit=5&theme=tokyonight&combine_all_yearly_contributions=true">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-contributor-stats.vercel.app/api?username=Sahan-Kaushalya&limit=5&theme=tokyonight&combine_all_yearly_contributions=true">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-contributor-stats.vercel.app/api?username=Sahan-Kaushalya&limit=5&theme=default&combine_all_yearly_contributions=true">
+      <img src="https://github-contributor-stats.vercel.app/api?username=Sahan-Kaushalya&limit=5&theme=default&combine_all_yearly_contributions=true">
+    </picture>
   </p>
+
   <p><a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=Sahan-Kaushalya&icon=1&color=0"></a></p>
 </div>
+

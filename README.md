@@ -90,7 +90,7 @@
   <h2>🏆 GitHub Trophies :</h2>
   <p align="center">
     <picture align="center">
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Sahan-Kaushalya&theme=dark&no-frame=false&no-bg=true&margin-w=4">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Sahan-Kaushalya&theme=algolia&no-frame=false&no-bg=true&margin-w=4">
       <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Sahan-Kaushalya&theme=default&no-frame=false&no-bg=true&margin-w=4">
       <img src="https://github-profile-trophy.vercel.app/?username=Sahan-Kaushalya&theme=default&no-frame=false&no-bg=true&margin-w=4">
     </picture>
@@ -99,7 +99,7 @@
   <h2>✍️ Random Dev Quote :</h2>
   <p align="center">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
+      <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia">
       <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default">
       <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default">
     </picture>
@@ -108,7 +108,7 @@
   <h2>🔝 Top Contributed Repo :</h2>
   <p align="center">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-contributor-stats.vercel.app/api?username=Sahan-Kaushalya&limit=5&theme=tokyonight&combine_all_yearly_contributions=true">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-contributor-stats.vercel.app/api?username=Sahan-Kaushalya&limit=5&theme=algolia&combine_all_yearly_contributions=true">
       <source media="(prefers-color-scheme: light)" srcset="https://github-contributor-stats.vercel.app/api?username=Sahan-Kaushalya&limit=5&theme=default&combine_all_yearly_contributions=true">
       <img src="https://github-contributor-stats.vercel.app/api?username=Sahan-Kaushalya&limit=5&theme=default&combine_all_yearly_contributions=true">
     </picture>

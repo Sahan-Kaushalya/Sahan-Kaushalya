@@ -1,6 +1,9 @@
-<div align="center">
-  <h1>💫 About Me</h1>
-  <p>👋 Hi, I’m @Sahan-Kaushalya</p>
+<div align="left">
+  <h1 align="center">Hi 👋, I'm Ishara Sahan Kaushalya</h1>
+  <h3 align="center">Passionate Software Engineering Student in Sri Lanka</h3>
+   <p align="center"><a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=Sahan-Kaushalya&icon=1&color=0"></a></p>
+  <h1 >💫 About Me</h1>
+  <p>👋 Hi, I’m Sahan-Kaushalya</p>
   <p>👀 I’m interested in Web and Application Development</p>
   <p>🌱 I’m currently learning Java and Python</p>
   <p>⚡ I’m an undergraduate at BCU University in the UK</p>
@@ -44,29 +47,32 @@
   </p>
 
   <h2>📊 GitHub Stats</h2>
-  <p>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Sahan-Kaushalya&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Sahan-Kaushalya&theme=default&hide_border=false&include_all_commits=false&count_private=false">
-      <img src="https://github-readme-stats.vercel.app/api?username=Sahan-Kaushalya&theme=default&hide_border=false&include_all_commits=false&count_private=false">
-    </picture>
-    <br/>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Sahan-Kaushalya&theme=tokyonight&hide_border=false">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Sahan-Kaushalya&theme=default&hide_border=false">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sahan-Kaushalya&theme=default&hide_border=false">
-    </picture>
-    <br/>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahan-Kaushalya&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahan-Kaushalya&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahan-Kaushalya&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
-    </picture>
-  </p>
+ <!--- stats & Trophy (start) -->
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+![Sahan-Kaushalya's Stats](https://github-readme-stats.vercel.app/api?username=Sahan-Kaushalya&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+  <br></br>
+ ![Sahan-Kaushalya's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sahan-Kaushalya&theme=tokyonight&hide_border=false)
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Sahan-Kaushalya&theme=tokyonight&hide_border=false&no-bg=true&no-frame=true&langs_count=5"/>
+  
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
+</p>        
+<!--- stats (end) -->
 
   <h2>🏆 GitHub Trophies</h2>
-  <p>
-    <picture>
+  <p align="center">
+    <picture align="center">
       <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Sahan-Kaushalya&theme=dark&no-frame=false&no-bg=true&margin-w=4">
       <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Sahan-Kaushalya&theme=default&no-frame=false&no-bg=true&margin-w=4">
       <img src="https://github-profile-trophy.vercel.app/?username=Sahan-Kaushalya&theme=default&no-frame=false&no-bg=true&margin-w=4">
@@ -74,7 +80,7 @@
   </p>
 
   <h2>✍️ Random Dev Quote</h2>
-  <p>
+  <p align="center">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
       <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default">
@@ -83,7 +89,7 @@
   </p>
 
   <h2>🔝 Top Contributed Repo</h2>
-  <p>
+  <p align="center">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-contributor-stats.vercel.app/api?username=Sahan-Kaushalya&limit=5&theme=tokyonight&combine_all_yearly_contributions=true">
       <source media="(prefers-color-scheme: light)" srcset="https://github-contributor-stats.vercel.app/api?username=Sahan-Kaushalya&limit=5&theme=default&combine_all_yearly_contributions=true">
@@ -91,6 +97,8 @@
     </picture>
   </p>
 
-  <p><a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=Sahan-Kaushalya&icon=1&color=0"></a></p>
+ 
 </div>
+
+
 

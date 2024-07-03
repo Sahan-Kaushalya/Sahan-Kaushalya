@@ -12,7 +12,7 @@
   <p>👋 Hi, I’m Sahan-Kaushalya</p>
   <p>👀 I’m interested in Web and Application Development</p>
   <p>🌱 I’m currently learning Java and Python</p>
-  <p>⚡ I’m an undergraduate at BCU University in the UK</p>
+  <p>⚡ I’m an undergraduate at BCU University in UK</p>
 
 </td>
 <td width="30%" align="center">

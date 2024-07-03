@@ -2,19 +2,33 @@
   <h1 align="center">Hi 👋, I'm Ishara Sahan Kaushalya</h1>
   <h3 align="center">Passionate Software Engineering Student in Sri Lanka</h3>
    <p align="center"><a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=Sahan-Kaushalya&icon=1&color=0"></a></p>
-  <h1 >💫 About Me</h1>
+  <table align="center">
+    <h1 >💫 About Me</h1>
+<tr border="none">
+<td width="50%" align="left">
   <p>👋 Hi, I’m Sahan-Kaushalya</p>
   <p>👀 I’m interested in Web and Application Development</p>
   <p>🌱 I’m currently learning Java and Python</p>
   <p>⚡ I’m an undergraduate at BCU University in the UK</p>
 
-  <h2>🌐 Socials</h2>
+</td>
+<td width="50%" align="center">
+
+  <img align="center" alt="Coding" width="450" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
+
+  
+  </td>
+</tr>
+</table>
+
+
+  <h2>🌐 Connect with me:</h2>
   <a href="https://web.facebook.com/profile.php?id=100078813576343"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"></a>
   <a href="https://www.instagram.com/sahan_kaushalya_weerathunga/?fbclid=IwY2xjawDwC75leHRuA2FlbQIxMAABHVuFBJMhQuQV88seiLjQ5iDji_SDZL71bt1hO_u5TZr0kzTvwjsccsyHug_aem_vQkIZSVLiew7hFhoEgRuWQ"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a>
   <a href="https://www.youtube.com/@isharasahan8174"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"></a>
  
 
-  <h2>💻 Tech Stack</h2>
+  <h2>💻 Languages and Tools:</h2>
   <p>
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
@@ -46,7 +60,7 @@
     <img src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black">
   </p>
 
-  <h2>📊 GitHub Stats</h2>
+  <h2>📊 My Statistics: </h2>
  <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
@@ -54,14 +68,14 @@
 <tr border="none">
 <td width="50%" align="center">
   
-![Sahan-Kaushalya's Stats](https://github-readme-stats.vercel.app/api?username=Sahan-Kaushalya&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+![Sahan-Kaushalya's Stats](https://github-readme-stats.vercel.app/api?username=Sahan-Kaushalya&theme=algolia&show_icons=true&hide_border=false&count_private=true)
   <br></br>
- ![Sahan-Kaushalya's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sahan-Kaushalya&theme=tokyonight&hide_border=false)
+![Sahan-Kaushalya's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sahan-Kaushalya&theme=algolia&hide_border=false)
 </td>
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Sahan-Kaushalya&theme=tokyonight&hide_border=false&no-bg=true&no-frame=true&langs_count=5"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Sahan-Kaushalya&theme=algolia&hide_border=false&no-bg=true&no-frame=true&langs_count=5"/>
   
   </td>
 </tr>
@@ -70,7 +84,7 @@
 </p>        
 <!--- stats (end) -->
 
-  <h2>🏆 GitHub Trophies</h2>
+  <h2>🏆 GitHub Trophies :</h2>
   <p align="center">
     <picture align="center">
       <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Sahan-Kaushalya&theme=dark&no-frame=false&no-bg=true&margin-w=4">
@@ -79,7 +93,7 @@
     </picture>
   </p>
 
-  <h2>✍️ Random Dev Quote</h2>
+  <h2>✍️ Random Dev Quote :</h2>
   <p align="center">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
@@ -88,7 +102,7 @@
     </picture>
   </p>
 
-  <h2>🔝 Top Contributed Repo</h2>
+  <h2>🔝 Top Contributed Repo :</h2>
   <p align="center">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-contributor-stats.vercel.app/api?username=Sahan-Kaushalya&limit=5&theme=tokyonight&combine_all_yearly_contributions=true">

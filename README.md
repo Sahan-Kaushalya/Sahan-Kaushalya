@@ -1,18 +1,21 @@
 <div align="left">
   <h1 align="center">Hi 👋, I'm Ishara Sahan Kaushalya</h1>
+  <div align="center">
+    <img align="center" alt="Coding" width="80%" src="https://github.com/Sahan-Kaushalya/Sahan-Kaushalya/blob/main/github-header-image.png?raw=true">
+  </div>
   <h3 align="center">Passionate Software Engineering Student in Sri Lanka</h3>
    <p align="center"><a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=Sahan-Kaushalya&icon=1&color=0"></a></p>
   <table align="center">
     <h1 >💫 About Me</h1>
 <tr border="none">
-<td width="50%" align="left">
+<td width="70%" align="left">
   <p>👋 Hi, I’m Sahan-Kaushalya</p>
   <p>👀 I’m interested in Web and Application Development</p>
   <p>🌱 I’m currently learning Java and Python</p>
   <p>⚡ I’m an undergraduate at BCU University in the UK</p>
 
 </td>
-<td width="50%" align="center">
+<td width="30%" align="center">
 
   <img align="center" alt="Coding" width="450" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
 

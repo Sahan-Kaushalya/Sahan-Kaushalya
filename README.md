@@ -71,14 +71,14 @@
 <tr border="none">
 <td width="50%" align="center">
   
-![Sahan-Kaushalya's Stats](https://github-readme-stats.vercel.app/api?username=Sahan-Kaushalya&theme=algolia&show_icons=true&hide_border=false&count_private=true)
+![Sahan-Kaushalya's Stats](https://github-readme-stats.vercel.app/api?username=Sahan-Kaushalya&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
   <br></br>
-![Sahan-Kaushalya's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sahan-Kaushalya&theme=algolia&hide_border=false)
+![Sahan-Kaushalya's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sahan-Kaushalya&theme=tokyonight&hide_border=false)
 </td>
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Sahan-Kaushalya&theme=algolia&hide_border=false&no-bg=true&no-frame=true&langs_count=5"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Sahan-Kaushalya&theme=tokyonight&hide_border=false&no-bg=true&no-frame=true&langs_count=5"/>
   
   </td>
 </tr>
@@ -90,7 +90,7 @@
   <h2>🏆 GitHub Trophies :</h2>
   <p align="center">
     <picture align="center">
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Sahan-Kaushalya&theme=algolia&no-frame=false&no-bg=true&margin-w=4">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Sahan-Kaushalya&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4">
       <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Sahan-Kaushalya&theme=default&no-frame=false&no-bg=true&margin-w=4">
       <img src="https://github-profile-trophy.vercel.app/?username=Sahan-Kaushalya&theme=default&no-frame=false&no-bg=true&margin-w=4">
     </picture>
@@ -99,7 +99,7 @@
   <h2>✍️ Random Dev Quote :</h2>
   <p align="center">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia">
+      <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
       <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default">
       <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default">
     </picture>
@@ -108,7 +108,7 @@
   <h2>🔝 Top Contributed Repo :</h2>
   <p align="center">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-contributor-stats.vercel.app/api?username=Sahan-Kaushalya&limit=5&theme=algolia&combine_all_yearly_contributions=true">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-contributor-stats.vercel.app/api?username=Sahan-Kaushalya&limit=5&theme=tokyonight&combine_all_yearly_contributions=true">
       <source media="(prefers-color-scheme: light)" srcset="https://github-contributor-stats.vercel.app/api?username=Sahan-Kaushalya&limit=5&theme=default&combine_all_yearly_contributions=true">
       <img src="https://github-contributor-stats.vercel.app/api?username=Sahan-Kaushalya&limit=5&theme=default&combine_all_yearly_contributions=true">
     </picture>

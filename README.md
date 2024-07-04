@@ -114,6 +114,10 @@
     </picture>
   </p>
 
+<h2>🎶 Spotify recently played :</h2>
+  <p align="center">
+  ![Spotify recently played]((https://spotify-recently-played-readme.vercel.app/api?user=31w2paxib5vp5wnb6i2vki6xf2hi&unique={true|1|on|yes})
+  </p>
  
 </div>
 

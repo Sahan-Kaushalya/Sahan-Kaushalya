@@ -114,11 +114,15 @@
     </picture>
   </p>
 
-<h2>🎶 Spotify recently played :</h2>
-  <p align="center">
-  ![Spotify recently played]((https://spotify-recently-played-readme.vercel.app/api?user=31w2paxib5vp5wnb6i2vki6xf2hi&unique={true|1|on|yes}&width=600)
-  </p>
- 
+## 🎶 Spotify recently played :
+
+<p align="center">
+  <img 
+    src="https://spotify-recently-played-readme.vercel.app/api?user=31w2paxib5vp5wnb6i2vki6xf2hi&unique=1&width=600&theme=tokyonight" 
+    width="600" 
+    alt="Spotify Recently Played">
+</p>
+
 </div>
 
 

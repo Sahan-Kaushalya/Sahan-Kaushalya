@@ -123,4 +123,11 @@
     alt="Spotify Recently Played">
 </p>
 
+---
+
+<p align="center">
+  <a href="https://github.com/Sahan-Kaushalya">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:7c3aed&height=120&section=footer&text=Thanks%20for%20visiting!%20%F0%9F%91%8B&fontSize=20&fontColor=ffffff" alt="Footer" />
+  </a>
+</p>
 </div>

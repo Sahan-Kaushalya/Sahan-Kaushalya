@@ -5,7 +5,7 @@
   </div>
   <h3 align="center">Passionate Software Engineering Student in Sri Lanka</h3>
    <p align="center"><a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Sahan-Kaushalya&label=Profile%20Views&color=0&icon=2&pretty=true" />
+  <img src="https://komarev.com/ghpvc/?username=Sahan-Kaushalya&abbreviated=true&style=for-the-badge" />
 </a></p>
   <table align="center">
     <h1 >💫 About Me</h1>

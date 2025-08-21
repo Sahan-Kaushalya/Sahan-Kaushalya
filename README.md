@@ -4,9 +4,13 @@
     <img align="center" alt="Coding" width="80%" src="https://github.com/Sahan-Kaushalya/Sahan-Kaushalya/blob/main/image.png?raw=true">
   </div>
   <h3 align="center">Passionate Software Engineering Student in Sri Lanka</h3>
-   <p align="center"><a href="https://visitcount.itsvg.in">
-  <img src="https://komarev.com/ghpvc/?username=Sahan-Kaushalya&abbreviated=true&style=for-the-badge" />
-</a></p>
+   <p align="center"><a href="https://github.com/Sahan-Kaushalya">
+  <img src="https://komarev.com/ghpvc/?username=Sahan-Kaushalya&abbreviated=true&style=for-the-badge">
+</a>
+<a href="https://www.youtube.com/channel/UC0nX0oL3wJaY4_neGK-kn1w">
+ <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UC0nX0oL3wJaY4_neGK-kn1w?style=for-the-badge&logo=youtube&color=%23FF0000">
+</a>
+   </p>
   <table align="center">
     <h1 >💫 About Me</h1>
 <tr border="none">

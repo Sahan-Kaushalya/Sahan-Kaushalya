@@ -4,7 +4,9 @@
     <img align="center" alt="Coding" width="80%" src="https://github.com/Sahan-Kaushalya/Sahan-Kaushalya/blob/main/image.png?raw=true">
   </div>
   <h3 align="center">Passionate Software Engineering Student in Sri Lanka</h3>
-   <p align="center"><a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=Sahan-Kaushalya&icon=1&color=0"></a></p>
+   <p align="center"><a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Sahan-Kaushalya&label=Profile%20Views&color=0&icon=2&pretty=true" />
+</a></p>
   <table align="center">
     <h1 >💫 About Me</h1>
 <tr border="none">

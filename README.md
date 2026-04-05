@@ -1,99 +1,116 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--              ANIMATED GRADIENT WAVE HEADER                  -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!--▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓-->
+<!--              ⚔  SOLO LEVELING  —  SYSTEM BOOT  ⚔            -->
+<!--▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓-->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b6b,25:f9ca24,50:6ab04c,75:22a6b3,100:4834d4&height=260&section=header&text=Ishara%20Sahan%20Kaushalya&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=50&stroke=ffffff&strokeWidth=1" width="100%"/>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                   TYPING ANIMATION SVG                      -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:000000,40:0d0221,70:1a0533,100:0d0117&height=280&section=header&text=ISHARA%20SAHAN%20KAUSHALYA&fontSize=40&fontColor=fbbf24&animation=fadeIn&fontAlignY=47&desc=⚔%20ARISE%20%7C%20SOFTWARE%20ENGINEERING%20%7C%20FULL%20STACK%20DEVELOPER%20⚔&descSize=14&descAlignY=68&descColor=a855f7&stroke=7c3aed&strokeWidth=2" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&multiline=false&width=750&height=45&lines=👋+Hey+there!+I'm+Sahan+Kaushalya;💻+Full+Stack+Developer+in+the+Making;🎨+UI%2FUX+Designer+%26+Creative+Coder;☕+Java+%7C+PHP+%7C+JavaScript+Enthusiast;🌍+Coding+from+Sri+Lanka+🇱🇰;🚀+Always+Learning%2C+Always+Building)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=20&duration=2500&pause=1000&color=A855F7&center=true&vCenter=true&width=780&height=45&lines=%5B+SYSTEM+%5D+New+Player+Has+Entered+the+Gate...;%5B+QUEST+%5D+Become+a+Master+Full+Stack+Developer;%5B+SKILL+%5D+Java+%7C+PHP+%7C+JavaScript+%7C+Python+Unlocked;%5B+RANK+%5D+Rising+from+E-Rank+to+S-Rank+Hunter;%5B+ORIGIN+%5D+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0+%2F+BCU+University+UK;%5B+STATUS+%5D+Always+Learning+...+Always+Leveling+Up)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- Visitor Badge + Profile Views -->
 <a href="https://github.com/Sahan-Kaushalya">
-  <img src="https://komarev.com/ghpvc/?username=Sahan-Kaushalya&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Sahan-Kaushalya&style=for-the-badge&color=7c3aed&label=HUNTERS+VISITED" alt="Profile Views"/>
 </a>
 &nbsp;
 <a href="https://www.youtube.com/channel/UC0nX0oL3wJaY4_neGK-kn1w">
-  <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UC0nX0oL3wJaY4_neGK-kn1w?style=for-the-badge&logo=youtube&color=FF0000&label=YT+VIEWS"/>
+  <img src="https://img.shields.io/youtube/channel/views/UC0nX0oL3wJaY4_neGK-kn1w?style=for-the-badge&logo=youtube&color=b91c1c&label=YT+VIEWS&logoColor=white"/>
 </a>
 &nbsp;
-<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-00d4ff?style=for-the-badge&logo=statuspage&logoColor=white"/>
+<img src="https://img.shields.io/badge/RANK-S--CLASS%20DEVELOPER-fbbf24?style=for-the-badge&labelColor=0d0221"/>
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                     ANIMATED DIVIDER                        -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<img src="https://i.imgur.com/waxVImv.png" width="100%">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!--▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓-->
+<!--                 PLAYER STATUS WINDOW                         -->
+<!--▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓-->
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                      ABOUT ME SECTION                       -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<div align="center">
 
-<table align="center" width="100%">
+## 👁️ `[ PLAYER STATUS WINDOW ]`
+
+</div>
+
+<table align="center" width="96%">
 <tr>
-<td width="55%" valign="top">
+<td width="54%" valign="top">
 
-## 🧬 `whoami`
-
-```yaml
-name       : Ishara Sahan Kaushalya
-alias      : Sahan-Kaushalya
-location   : Sri Lanka 🇱🇰 / BCU University, UK 🇬🇧
-role       : Software Engineering Student
-focus      : Web Dev · App Dev · UI/UX Design
-currently  : Learning Java & Python
-status     : Building cool stuff ✨
+```
+╔══════════════════════════════════════════╗
+║       ⚔  HUNTER  STATUS  WINDOW  ⚔      ║
+╠══════════════════════════════════════════╣
+║  Name     : Ishara Sahan Kaushalya       ║
+║  Username : Sahan-Kaushalya              ║
+║  Origin   : Sri Lanka 🇱🇰                ║
+║  Guild    : BCU University UK 🇬🇧        ║
+║  Class    : Software Engineering Student ║
+║  Rank     : [ S - CLASS ]                ║
+║  Status   : ▓▓▓▓▓▓▓▓░░  LEVELING UP     ║
+╚══════════════════════════════════════════╝
 ```
 
-```bash
-$ cat interests.txt
+```
+╔══════════════════════════════════════════╗
+║           ACTIVE  SKILLS                 ║
+╠══════════════════════════════════════════╣
+║  🌐  Full-Stack Web Development          ║
+║  📱  Mobile Application Design           ║
+║  🎨  Creative UI / UX Design             ║
+║  🤖  AI & Cloud Exploration              ║
+║  📸  Photography & Creative Editing      ║
+║  🎵  Music & Audio Production            ║
+╚══════════════════════════════════════════╝
+```
 
-  🌐  Full-Stack Web Development
-  📱  Mobile Application Design
-  🎨  Creative UI/UX Design
-  🤖  Exploring AI & Cloud
-  📸  Photography & Editing
-  🎵  Music & Audio Production
+```
+╔══════════════════════════════════════════╗
+║            ACTIVE  QUESTS                ║
+╠══════════════════════════════════════════╣
+║  [ IN PROGRESS ] Master Java & Python    ║
+║  [ IN PROGRESS ] BCU Degree Completion   ║
+║  [ UNLOCKED   ] Open to Work / Projects  ║
+╚══════════════════════════════════════════╝
 ```
 
 </td>
-<td width="45%" align="center" valign="middle">
+<td width="46%" align="center" valign="middle">
 
-<img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" width="290" alt="Coding GIF"/>
+<img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" width="300" alt="Hunter GIF"/>
 
-<br/>
+<br/><br/>
 
-<!-- Dynamic quote card -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="290"/>
+| RANK | CLASS | PROGRESS |
+|:---:|:---:|:---:|
+| ⬛ **E** | Learner | `████░░` |
+| 🟫 **D** | Developer | `████░░` |
+| 🟩 **B** | Builder | `████░░` |
+| 🟦 **A** | Architect | `███░░░` |
+| 🟨 **S** | Shadow Dev | `██░░░░` |
 
 </td>
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                     SKILLS SECTION                          -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<img src="https://i.imgur.com/waxVImv.png" width="100%">
+
+<!--▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓-->
+<!--                  SKILL TREE / ABILITIES                      -->
+<!--▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓-->
 
 <div align="center">
 
-## 🛠️ Tech Arsenal
+## ⚔️ `[ SKILL TREE — TECH ABILITIES ]`
 
-<!-- Languages -->
-### 💬 Languages
+### 🗡️ LANGUAGE MASTERY
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -101,7 +118,7 @@ $ cat interests.txt
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-### 🧩 Frameworks & Libraries
+### 🛡️ FRAMEWORK ARSENAL
 
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -110,187 +127,158 @@ $ cat interests.txt
 ![JavaFX](https://img.shields.io/badge/JavaFX-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 
-### 🗄️ Databases & Cloud
+### 🏰 DUNGEON DATABASES & CLOUD
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-### 🎨 Design & Creative Tools
+### 🎨 SHADOW ART & DESIGN TOOLS
 
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![Adobe Lightroom](https://img.shields.io/badge/Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
-![Adobe Audition](https://img.shields.io/badge/Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![Lightroom](https://img.shields.io/badge/Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
+![Audition](https://img.shields.io/badge/Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white)
 ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)
-![GIMP](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
+![GIMP](https://img.shields.io/badge/GIMP-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 ![Affinity Designer](https://img.shields.io/badge/Affinity%20Designer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white)
-![Adobe Creative Cloud](https://img.shields.io/badge/Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
+![Creative Cloud](https://img.shields.io/badge/Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
 
-### ⚙️ DevOps & Tools
+### ⚙️ SHADOW MONARCH TOOLS
 
 ![Apache](https://img.shields.io/badge/Apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-![Apache Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
-![Apache Ant](https://img.shields.io/badge/Ant-A81C7D?style=for-the-badge&logo=Apache%20Ant&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
+![Ant](https://img.shields.io/badge/Ant-A81C7D?style=for-the-badge&logo=Apache%20Ant&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://i.imgur.com/waxVImv.png" width="100%">
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                  GITHUB STATS SECTION                       -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!--▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓-->
+<!--              COMBAT POWER / GITHUB STATS                     -->
+<!--▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓-->
 
 <div align="center">
 
-## 📊 GitHub Analytics
+## 💀 `[ COMBAT POWER — GITHUB STATS ]`
 
 <table>
 <tr>
 <td width="50%" align="center">
 
-![Sahan-Kaushalya's Stats](https://github-readme-stats.vercel.app/api?username=Sahan-Kaushalya&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sahan-Kaushalya&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d0221&title_color=a855f7&text_color=c084fc&icon_color=fbbf24&border_color=7c3aed)
 
 </td>
 <td width="50%" align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahan-Kaushalya&theme=tokyonight&hide_border=true&langs_count=8&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahan-Kaushalya&hide_border=true&langs_count=8&layout=compact&bg_color=0d0221&title_color=a855f7&text_color=c084fc&icon_color=fbbf24&border_color=7c3aed)
 
 </td>
 </tr>
 <tr>
 <td colspan="2" align="center">
 
-![Streak Stats](https://streak-stats.demolab.com/?user=Sahan-Kaushalya&theme=tokyonight&hide_border=true)
+![Streak Stats](https://streak-stats.demolab.com/?user=Sahan-Kaushalya&hide_border=true&background=0d0221&ring=a855f7&fire=fbbf24&currStreakLabel=a855f7&sideLabels=c084fc&currStreakNum=fbbf24&sideNums=c084fc&dates=7c3aed)
 
 </td>
 </tr>
 </table>
 
-</div>
-
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--               ACTIVITY GRAPH (FULL WIDTH)                   -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+### 📈 `[ DUNGEON RAID — CONTRIBUTION GRAPH ]`
 
-<div align="center">
-
-### 📈 Contribution Activity
-
-[![Sahan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sahan-Kaushalya&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph%20%F0%9F%9A%80)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sahan-Kaushalya&bg_color=0d0221&color=a855f7&line=7c3aed&point=fbbf24&area_color=1a0533&area=true&hide_border=true&custom_title=Shadow%20Monarch%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://i.imgur.com/waxVImv.png" width="100%">
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    TROPHIES SECTION                         -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!--▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓-->
+<!--                  ACHIEVEMENTS UNLOCKED                       -->
+<!--▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓-->
 
 <div align="center">
 
-## 🏆 GitHub Trophies
+## 🏆 `[ ACHIEVEMENTS UNLOCKED ]`
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Sahan-Kaushalya&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&column=7">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Sahan-Kaushalya&theme=flat&no-frame=true&no-bg=false&margin-w=6&column=7">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sahan-Kaushalya&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&column=7" width="100%"/>
-</picture>
+<img src="https://github-profile-trophy.vercel.app/?username=Sahan-Kaushalya&theme=onedark&no-frame=true&margin-w=6&column=7" width="100%"/>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://i.imgur.com/waxVImv.png" width="100%">
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                TOP CONTRIBUTED REPOS                        -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!--▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓-->
+<!--                   TOP REPOS                                  -->
+<!--▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓-->
 
 <div align="center">
 
-## 🔝 Top Contributed Repositories
+## 🔝 `[ SHADOW ARMY — TOP CONTRIBUTED REPOS ]`
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-contributor-stats.vercel.app/api?username=Sahan-Kaushalya&limit=5&theme=tokyonight&combine_all_yearly_contributions=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-contributor-stats.vercel.app/api?username=Sahan-Kaushalya&limit=5&theme=flat&combine_all_yearly_contributions=true">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Sahan-Kaushalya&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width="80%"/>
-</picture>
+<img src="https://github-contributor-stats.vercel.app/api?username=Sahan-Kaushalya&limit=5&theme=onedark&combine_all_yearly_contributions=true" width="80%"/>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://i.imgur.com/waxVImv.png" width="100%">
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                   SPOTIFY SECTION                           -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!--▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓-->
+<!--                      SPOTIFY                                 -->
+<!--▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓-->
 
 <div align="center">
 
-## 🎵 Now Playing on Spotify
+## 🎵 `[ DUNGEON BGM — SPOTIFY ]`
 
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=31w2paxib5vp5wnb6i2vki6xf2hi&unique=1&width=700&theme=tokyonight" width="700" alt="Spotify Recently Played"/>
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=31w2paxib5vp5wnb6i2vki6xf2hi&unique=1&width=700" width="700" alt="Spotify Recently Played"/>
 
-> *🎶 Music fuels the code — currently vibing to some good beats!*
+> *🎶 Every great hunter needs their battle music...*
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://i.imgur.com/waxVImv.png" width="100%">
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                  CONNECT WITH ME                            -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!--▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓-->
+<!--                  GUILD CONNECTIONS                           -->
+<!--▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓-->
 
 <div align="center">
 
-## 🌐 Let's Connect!
+## 🌐 `[ GUILD CONNECTIONS — REACH ME ]`
 
 <a href="https://web.facebook.com/profile.php?id=100078813576343">
-  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/>
-</a>
-&nbsp;
+  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/>
+</a>&nbsp;
 <a href="https://www.instagram.com/sahan_kaushalya_weerathunga">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
-</a>
-&nbsp;
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+</a>&nbsp;
 <a href="https://www.youtube.com/@isharasahan8174">
-  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"/>
-</a>
-&nbsp;
+  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/>
+</a>&nbsp;
 <a href="https://github.com/Sahan-Kaushalya">
-  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                     FUN SECTION                             -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+```
+╔═══════════════════════════════════════════════════════════════╗
+║  [ SYSTEM ]  "I alone level up."       — Sung Jin-Woo         ║
+║  [ HUNTER ]  "I just keep building."   — Sahan Kaushalya      ║
+╚═══════════════════════════════════════════════════════════════╝
+```
 
-### ⚡ Fun Dev Facts About Me
-
-| 🧠 When I'm debugging | ☕ Fuel | 🎯 Current Goal | 🌙 Peak hours |
-|---|---|---|---|
-| Stack Overflow + vibes | Coffee × ∞ | Master Java & Python | Night owl 🦉 |
-
-<br/>
-
-<!-- Random Dev Quote -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
-  <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="700"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="700"/>
 </picture>
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                      FOOTER                                 -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4834d4,25:22a6b3,50:6ab04c,75:f9ca24,100:ff6b6b&height=130&section=footer&text=Thanks%20for%20visiting!%20Drop%20a%20%E2%AD%90%20if%20you%20like%20it!&fontSize=16&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0d0117,40:1a0533,70:0d0221,100:000000&height=140&section=footer&reversal=true&text=ARISE%20%7C%20Thanks%20for%20visiting!%20Drop%20a%20Star%20if%20you%20like%20it!&fontSize=17&fontColor=fbbf24&animation=fadeIn&fontAlignY=50" width="100%"/>

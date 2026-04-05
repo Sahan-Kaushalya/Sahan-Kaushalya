@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--                     ANIMATED HEADER                         -->
+<!--              ANIMATED GRADIENT WAVE HEADER                  -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Ishara%20Sahan%20Kaushalya&fontSize=42&fontColor=00d4ff&animation=twinkling&fontAlignY=65&desc=Software%20Engineering%20%7C%20Creative%20Developer%20%7C%20UI%2FUX%20Enthusiast&descSize=16&descAlignY=82&descColor=a78bfa" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b6b,25:f9ca24,50:6ab04c,75:22a6b3,100:4834d4&height=260&section=header&text=Ishara%20Sahan%20Kaushalya&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=50&stroke=ffffff&strokeWidth=1" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                   TYPING ANIMATION SVG                      -->
@@ -12,7 +12,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=800&color=00D4FF&center=true&vCenter=true&width=700&lines=👋+Hey+there!+I'm+Sahan+Kaushalya;💻+Full+Stack+Developer+in+the+Making;🎨+UI%2FUX+Designer+%26+Creative+Coder;☕+Java+%7C+PHP+%7C+JavaScript+Lover;🌍+Building+from+Sri+Lanka+🇱🇰;🚀+Always+Learning%2C+Always+Growing)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&multiline=false&width=750&height=45&lines=👋+Hey+there!+I'm+Sahan+Kaushalya;💻+Full+Stack+Developer+in+the+Making;🎨+UI%2FUX+Designer+%26+Creative+Coder;☕+Java+%7C+PHP+%7C+JavaScript+Enthusiast;🌍+Coding+from+Sri+Lanka+🇱🇰;🚀+Always+Learning%2C+Always+Building)](https://git.io/typing-svg)
 
 <br/>
 
@@ -157,14 +157,14 @@ $ cat interests.txt
 </td>
 <td width="50%" align="center">
 
-![Top Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Sahan-Kaushalya&theme=tokyonight&hide_border=true&no-bg=true&no-frame=true&langs_count=8&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahan-Kaushalya&theme=tokyonight&hide_border=true&langs_count=8&layout=compact)
 
 </td>
 </tr>
 <tr>
 <td colspan="2" align="center">
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Sahan-Kaushalya&theme=tokyonight&hide_border=true)
+![Streak Stats](https://streak-stats.demolab.com/?user=Sahan-Kaushalya&theme=tokyonight&hide_border=true)
 
 </td>
 </tr>
@@ -183,26 +183,6 @@ $ cat interests.txt
 ### 📈 Contribution Activity
 
 [![Sahan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sahan-Kaushalya&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph%20%F0%9F%9A%80)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                 SNAKE CONTRIBUTION GRAPH                    -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-### 🐍 Watch My Contributions Get Eaten!
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sahan-Kaushalya/Sahan-Kaushalya/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sahan-Kaushalya/Sahan-Kaushalya/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Sahan-Kaushalya/Sahan-Kaushalya/output/github-snake.svg" width="100%"/>
-</picture>
-
-> **💡 Note:** To activate the snake, add a [GitHub Actions workflow](https://github.com/Platane/snk) to your profile repo!
 
 </div>
 
@@ -313,4 +293,4 @@ $ cat interests.txt
 <!--                      FOOTER                                 -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Thanks%20for%20visiting!%20Drop%20a%20⭐%20if%20you%20like%20what%20you%20see!&fontSize=15&fontColor=00d4ff&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4834d4,25:22a6b3,50:6ab04c,75:f9ca24,100:ff6b6b&height=130&section=footer&text=Thanks%20for%20visiting!%20Drop%20a%20%E2%AD%90%20if%20you%20like%20it!&fontSize=16&fontColor=ffffff&animation=fadeIn" width="100%"/>

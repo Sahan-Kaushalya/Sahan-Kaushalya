@@ -2,7 +2,7 @@
   <div align="center">
 
 <!-- ===== ANIMATED HEADER BANNER ===== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sahan%20Kaushalya&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20Tech%20Enthusiast&descAlignY=60&descColor=a78bfa" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=SAHAN%20KAUSHALYA&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20Tech%20Enthusiast&descAlignY=60&descColor=a78bfa" />
 
 <!-- ===== TYPING ANIMATION ===== -->
 <a href="https://git.io/typing-svg">

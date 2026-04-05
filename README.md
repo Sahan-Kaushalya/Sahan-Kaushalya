@@ -1,5 +1,15 @@
 <div align="left">
-  <h1 align="center">Hi 👋, I'm Ishara Sahan Kaushalya</h1>
+  <div align="center">
+
+<!-- ===== ANIMATED HEADER BANNER ===== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sahan%20Kaushalya&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20Tech%20Enthusiast&descAlignY=60&descColor=a78bfa" />
+
+<!-- ===== TYPING ANIMATION ===== -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+elegant+digital+experiences+%F0%9F%9A%80;Full+Stack+%7C+Mobile+%7C+Cloud+%E2%98%81%EF%B8%8F;React+%7C+Spring+%7C+Next.js+%7C+TypeScript;Turning+coffee+into+clean+code+%E2%98%95" alt="Typing SVG" />
+</a>
+
+<br/>
   <div align="center">
     <img align="center" alt="Coding" width="80%" src="https://github.com/Sahan-Kaushalya/Sahan-Kaushalya/blob/main/image.png?raw=true">
   </div>

@@ -40,12 +40,25 @@
 </tr>
 </table>
 
+<h3 align="center">Connect with me:</h3>
 
-  <h2>🌐 Connect with me:</h2>
-  <a href="https://web.facebook.com/profile.php?id=100078813576343"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"></a>
-  <a href="https://www.instagram.com/sahan_kaushalya_weerathunga/?fbclid=IwY2xjawDwC75leHRuA2FlbQIxMAABHVuFBJMhQuQV88seiLjQ5iDji_SDZL71bt1hO_u5TZr0kzTvwjsccsyHug_aem_vQkIZSVLiew7hFhoEgRuWQ"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a>
-  <a href="https://www.youtube.com/@isharasahan8174"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"></a>
- 
+###
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <a href="https://www.youtube.com/@isharasahan8174" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  <a href="http://instagram.com/sahan_kaushalya_weerathunga/?fbclid=IwY2xjawDwC75leHRuA2FlbQIxMAABHVuFBJMhQuQV88seiLjQ5iDji_SDZL71bt1hO_u5TZr0kzTvwjsccsyHug_aem_vQkIZSVLiew7hFhoEgRuWQ" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+</div>
+
+###
+
 
  ---
 

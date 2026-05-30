@@ -69,18 +69,7 @@
 **Languages & Frameworks**
 
 <img src="https://skillicons.dev/icons?i=java,js,ts,php,python,react,nextjs,nodejs,express,laravel,spring,jquery,vite" />
-
-**Styling**
-
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap" />
-
-**Databases**
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,firebase,sqlite,hibernate" />
-
-**Build Tools**
-
-<img src="https://skillicons.dev/icons?i=maven,gradle,git,github" />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,mysql,mongodb,postgres,firebase,sqlite,hibernate,maven,gradle,git,github" />
 
 </div>
 

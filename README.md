@@ -189,9 +189,7 @@
   <h2>🏆 GitHub Trophies :</h2>
   <p align="center">
     <picture align="center">
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Sahan-Kaushalya&theme=algolia&no-frame=false&no-bg=true&margin-w=4">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Sahan-Kaushalya&theme=default&no-frame=false&no-bg=true&margin-w=4">
-      <img src="https://github-profile-trophy.vercel.app/?username=Sahan-Kaushalya&theme=default&no-frame=false&no-bg=true&margin-w=4">
+ <img src="https://raw.githubusercontent.com/Sahan-Kaushalya/Sahan-Kaushalya/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
     </picture>
   </p>
 

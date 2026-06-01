@@ -176,8 +176,8 @@
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Sahan-Kaushalya&theme=algolia&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
+<img src="https://raw.githubusercontent.com/Sahan-Kaushalya/Sahan-Kaushalya/languages-output/languages.svg" height="300" alt="languages graph"  />
+
   </td>
 </tr>
 </table>

@@ -169,10 +169,9 @@
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-  
-![Sahan-Kaushalya's Stats](https://github-readme-stats.vercel.app/api?username=Sahan-Kaushalya&theme=algolia&show_icons=true&hide_border=false&count_private=true)
+   <img src="https://raw.githubusercontent.com/Sahan-Kaushalya/Sahan-Kaushalya/stats-output/stats.svg" height="150" alt="stats graph"  />
   <br></br>
-![Sahan-Kaushalya's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sahan-Kaushalya&theme=algolia&hide_border=false)
+     <img src="https://streak-stats.demolab.com?user=Sahan-Kaushalya&locale=en&mode=daily&theme=algolia&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </td>
 
 <td width="50%" align="center">
@@ -190,8 +189,21 @@
   <p align="center">
     <picture align="center">
  <img src="https://raw.githubusercontent.com/Sahan-Kaushalya/Sahan-Kaushalya/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
+        <img src="https://raw.githubusercontent.com/Sahan-Kaushalya/Sahan-Kaushalya/activity-graph-output/activity-graph.svg" height="300" alt="activity-graph graph"  />
     </picture>
   </p>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sahan-Kaushalya/Sahan-Kaushalya/pacman-output/bomberman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sahan-Kaushalya/Sahan-Kaushalya/pacman-output/bomberman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Sahan-Kaushalya/Sahan-Kaushalya/pacman-output/bomberman-contribution-graph.svg">
+</picture>
+
+###
+
+<img src="https://raw.githubusercontent.com/Sahan-Kaushalya/Sahan-Kaushalya/snake-output/snake.svg" alt="Snake animation" />
 
   <h2>✍ Random Dev Quote :</h2>
   <p align="center">

@@ -171,7 +171,7 @@
 <td width="50%" align="center">
    <img src="https://raw.githubusercontent.com/Sahan-Kaushalya/Sahan-Kaushalya/stats-output/stats.svg" height="150" alt="stats graph"  />
   <br></br>
-     <img src="https://streak-stats.demolab.com?user=Sahan-Kaushalya&locale=en&mode=daily&theme=algolia&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+     <img src="https://streak-stats.demolab.com?user=Sahan-Kaushalya&locale=en&mode=weekly&theme=algolia&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </td>
 
 <td width="50%" align="center">

@@ -15,17 +15,9 @@ jobs:
     timeout-minutes: 5
     steps:
       - name: generate trophy.svg
-        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
-        with:
-          username: ${{ github.repository_owner }}
-          file: dist/trophy.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          theme: algolia
-          max-rows: 1
-          margin-width: 8
-          margin-height: 8
-          no-background: false
-          no-frame: false
+        run: |
+          mkdir -p dist
+          curl -fsSL "https://github-profile-trophy.vercel.app/?username=${{ github.repository_owner }}&theme=algolia&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" -o dist/trophy.svg
 
       - name: push trophy.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
